@@ -1,0 +1,16 @@
+{
+  "name": "component-angular-animate",
+  "repo": "CamShaft/component-angular-animate",
+  "description": "Component version of Angular animate",
+  "version": "1.2.0",
+  "keywords": [],
+  "dependencies": {
+    "CamShaft/component-angular": "1.2.0"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
